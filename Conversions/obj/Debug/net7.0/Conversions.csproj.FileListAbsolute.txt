@@ -1,0 +1,15 @@
+/Users/truittthuecks/Projects/Conversions/Conversions/bin/Debug/net7.0/Conversions
+/Users/truittthuecks/Projects/Conversions/Conversions/bin/Debug/net7.0/Conversions.deps.json
+/Users/truittthuecks/Projects/Conversions/Conversions/bin/Debug/net7.0/Conversions.runtimeconfig.json
+/Users/truittthuecks/Projects/Conversions/Conversions/bin/Debug/net7.0/Conversions.dll
+/Users/truittthuecks/Projects/Conversions/Conversions/bin/Debug/net7.0/Conversions.pdb
+/Users/truittthuecks/Projects/Conversions/Conversions/obj/Debug/net7.0/Conversions.csproj.AssemblyReference.cache
+/Users/truittthuecks/Projects/Conversions/Conversions/obj/Debug/net7.0/Conversions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/truittthuecks/Projects/Conversions/Conversions/obj/Debug/net7.0/Conversions.AssemblyInfoInputs.cache
+/Users/truittthuecks/Projects/Conversions/Conversions/obj/Debug/net7.0/Conversions.AssemblyInfo.cs
+/Users/truittthuecks/Projects/Conversions/Conversions/obj/Debug/net7.0/Conversions.csproj.CoreCompileInputs.cache
+/Users/truittthuecks/Projects/Conversions/Conversions/obj/Debug/net7.0/Conversions.dll
+/Users/truittthuecks/Projects/Conversions/Conversions/obj/Debug/net7.0/refint/Conversions.dll
+/Users/truittthuecks/Projects/Conversions/Conversions/obj/Debug/net7.0/Conversions.pdb
+/Users/truittthuecks/Projects/Conversions/Conversions/obj/Debug/net7.0/Conversions.genruntimeconfig.cache
+/Users/truittthuecks/Projects/Conversions/Conversions/obj/Debug/net7.0/ref/Conversions.dll
